@@ -1,0 +1,19 @@
+                                /* Sintaxis de CSS - comentarios */
+
+                                /* selector { propiedad: valor;} */
+    h1 {color: aqua;}
+
+    *{margin:0; padding:0;}
+
+h1 {background-color: black;}
+
+.tit2 {color: blanchedalmond;}
+
+a {text-decoration-line: none;}
+a {cursor: crosshair;}
+p {font-size: 20pt;}
+body {background-image:  url();
+    background-size: cover;
+    background-color: azure;
+
+}
